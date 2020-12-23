@@ -1,0 +1,22 @@
+{
+  "name": "palindrome-checker",
+  "version": "0.0.1",
+  "description": "FCC project that checks if a string's a palindrome",
+  "main": "main.js",
+  "repository": "https://github.com/k4y4k/palindrome-checker",
+  "author": "kayak <kayak@kayak.rocks>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": ">=4",
+    "lint-staged": ">=10",
+    "prettier": "^2.2.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,css,md}": "prettier --write"
+  }
+}
