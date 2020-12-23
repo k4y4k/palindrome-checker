@@ -294,7 +294,7 @@ human-signals@^1.1.1:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-1.1.1.tgz#c5b1cd14f50aeae09ab6c59fe63ba3395fe4dfa3"
   integrity sha512-SEQu7vl8KjNL2eoGBLF3+wAjpsNfA9XMlXAYj/3EdaNfAlxKthD1xjEQfGOUhllCGGJVNY34bRr6lPINhNjyZw==
 
-husky@>=4:
+husky@^4.3.6:
   version "4.3.6"
   resolved "https://registry.yarnpkg.com/husky/-/husky-4.3.6.tgz#ebd9dd8b9324aa851f1587318db4cccb7665a13c"
   integrity sha512-o6UjVI8xtlWRL5395iWq9LKDyp/9TE7XMOTvIpEVzW638UcGxTmV5cfel6fsk/jbZSTlvfGVJf2svFtybcIZag==
@@ -716,6 +716,11 @@ type-fest@^0.11.0:
   version "0.11.0"
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.11.0.tgz#97abf0872310fed88a5c466b25681576145e33f1"
   integrity sha512-OdjXJxnCN1AvyLSzeKIgXTXxV+99ZuXl3Hpo9XpJAv9MBcHrrJOQ5kV7ypXOuQie+AmWG25hLbiKdwYTifzcfQ==
+
+typescript@^4.2.0-dev.20201222:
+  version "4.2.0-dev.20201222"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.2.0-dev.20201222.tgz#64a8e2c0ac9db367d5b388ab539f85656935ffa5"
+  integrity sha512-wSRinpzY7BXSC+3+cRrPuVAmRiUgG0YTgcT17R12nJMitojDSbhue7oD84SoUxm7axefpsow80yvtJ9NSK80DA==
 
 which-pm-runs@^1.0.0:
   version "1.0.0"
