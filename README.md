@@ -1,4 +1,4 @@
-# JavaScript Algorithms and Data Structures Projects: Palindrome Checker
+# Palindrome Checker
 
 ![Written in TypeScript](https://img.shields.io/badge/written%20in-typescript-informational?style=for-the-badge)
 ![Codecov](https://img.shields.io/codecov/c/gh/k4y4k/palindrome-checker?color=informational&style=for-the-badge)
