@@ -1,0 +1,13 @@
+language: node_js
+node_js: lts/*
+
+git:
+  depth: false
+  quiet: true
+
+before_script:
+  - npm i -g codecov
+
+script:
+  - yarn jest --coverage
+  - codecov
